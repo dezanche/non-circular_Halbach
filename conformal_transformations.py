@@ -1,4 +1,4 @@
-/*
+"""
 This program illustrates how conformal mapping can be used to design Halbach magnet arrays on various shapes.
 
     Copyright (C) 2026  Nicola De Zanche
@@ -15,7 +15,7 @@ This program illustrates how conformal mapping can be used to design Halbach mag
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
-*/
+"""
 
 import numpy as np
 
