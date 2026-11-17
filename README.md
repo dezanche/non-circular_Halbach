@@ -1,5 +1,6 @@
 # Non-circular Halbach Array Design using Conformal Mapping
-This code illustrates how conformal mapping can be used to design Halbach magnet arrays on various shapes.
+This software illustrates how conformal mapping can be used to design Halbach magnet arrays on various shapes.
+
 ## Requirements
 - Python 3.x
 - install the packages listed in `requirements.txt`
