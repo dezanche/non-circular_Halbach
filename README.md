@@ -6,7 +6,10 @@ This software illustrates how conformal mapping can be used to design Halbach ma
 - install the packages listed in `requirements.txt`
 
 ## Running the code
-Run `non-circular_Halbach.py` from the command line (e.g., `> python non-circular_Halbach.py`) or inside an IDE like Spyder.
+Run `non-circular_Halbach.py` from the command line (e.g., `> python non-circular_Halbach.py`) or inside an IDE like [Spyder](https://www.spyder-ide.org/).
+
+## Results
+WIP
 
 ## Licenses
 This repository is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) as published by the Free Software Foundation, either version 3 of the License, or any later version.\
