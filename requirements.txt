@@ -1,0 +1,8 @@
+numpy
+magpylib
+matplotlib
+scipy
+shapely
+tkinter
+plotly
+mpmath
